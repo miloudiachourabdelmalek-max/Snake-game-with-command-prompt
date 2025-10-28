@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1761066377 source:c:\users\achou\documents\c++\douda\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<thread>
+	<chrono>
+	<conio.h>
+	<windows.h>
+	<ctime>
+	<deque>
+
