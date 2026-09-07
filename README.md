@@ -17,25 +17,6 @@ The game allows the player to customize the playing area, snake speed, winning t
 * Replay option
 * Hidden console cursor for smoother display
 
-## 🕹️ Controls
-
-### QWERTY
-
-| Key | Direction |
-| --- | --------- |
-| `W` | Up        |
-| `S` | Down      |
-| `A` | Left      |
-| `D` | Right     |
-
-### AZERTY
-
-| Key | Direction |
-| --- | --------- |
-| `Z` | Up        |
-| `S` | Down      |
-| `Q` | Left      |
-| `D` | Right     |
 
 ## ⚙️ Game Configuration
 
@@ -120,18 +101,6 @@ Snake-Game/
 This project was created as a practical exercise to improve my understanding of **C++ programming and game logic**.
 
 The goal was to build a playable game using the **Windows console**, without relying on a graphical game engine.
-
-## 🔮 Possible Improvements
-
-* Colored console elements
-* High-score system
-* Different difficulty levels
-* Pause functionality
-* Obstacles
-* Multiple types of food
-* Improved input handling
-* Cleaner game architecture
-* Cross-platform support
 
 ## 👨‍💻 Author
 
